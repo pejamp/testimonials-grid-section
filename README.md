@@ -14,10 +14,6 @@ Users should be able to:
 
 ![Desktop](./src/assets/preview/desktop-preview.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-
 ## My process
 
 ### Built with
@@ -36,8 +32,8 @@ Users should be able to:
 Clone this repository and go to the folder
 
 ```bash
-$ git clone https://github.com/pejamp/grid-landing-page.git
-$ cd grid-landing-page
+$ git clone https://github.com/pejamp/testimonials-grid-section.git
+$ cd testimonials-grid-section
 ```
 
 To run, follow the steps below:
